@@ -1,0 +1,12 @@
+mkdir -p /home/$USERNAME/$1/Ressources/Sources  /home/$USERNAME/$1/Backend
+touch  /home/$USERNAME/$1/Backend/server.js           /home/$USERNAME/$1/Backend/test.js          /home/$USERNAME/$1/Ressources/Sources/Sites_1   /home/$USERNAME/$1/Ressources/Sources/Sites_2            /home/$USERNAME/$1/Ressources/Documentation_backend            /home/$USERNAME/$1/Ressources/Documentation_frontend
+
+NB_DE_JOUEUR=20
+echo $NB_DE_JOUEUR
+Cat .bashrc
+cd
+vi my_bashrc
+alias ls=" ls-l "
+
+
+echo " SALUT " >>
